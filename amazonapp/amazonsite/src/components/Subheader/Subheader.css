@@ -1,0 +1,22 @@
+.subheader {
+    display: flex;
+    align-items: center;
+}
+
+.subheader>div {
+    margin-left: 15px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .hoverEffect {
+    border: 1px solid black;
+    transition: 1ms;
+    background-color: red;
+} */
+
+/* .hoverOut {
+    transition: 1ms;
+    border: none;
+} */
