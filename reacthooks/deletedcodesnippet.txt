@@ -1,0 +1,29 @@
+// import React, {useEffect, useState} from 'react';
+// function Useeffectexample(){
+//     const [count, setCount]= useState(0);
+//     const [product, setProduct]=useState(0);
+//  useEffect(()=>{
+//      setProduct(()=>count*2);
+//      document.title=count;
+//      const fetchApi=async ()=>{
+//         let response = await ("")
+
+//      }
+
+//  },[count])
+ 
+//     return(
+//         <div> 
+//             <h1> USEEFFECT EXAMPLE</h1>
+//             <button onClick={()=> setCount(count+1)}>INCREASE</button>
+//             <p>{count}</p>
+//             <p>{product}</p>
+//         </div>
+
+//     )
+// }
+// export default Useeffectexample;
+
+/   let[counter,setCounter] =useState(0);
+//   let[test,setTest] =useState(1);
+//   let [arr,setArr] =useState([]);
