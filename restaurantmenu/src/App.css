@@ -1,0 +1,101 @@
+/* .App {
+  text-align: center;
+  text-decoration-color: aquamarine;
+  text-shadow: 2px;
+  font-style: italic;
+  font-stretch: ultra-condensed;
+  color:blue;
+} */
+ .Bodystyling {
+  background-image: 
+  url( "https://images.indianexpress.com/2021/12/food-trends_-1200.jpg") ; 
+    /* "https://media.geeksforgeeks.org/wp-content/uploads/rk.png");  */
+ /* "https://images.indianexpress.com/2021/12/food-trends_-1200.jpg");  */
+  /* "https://media.geeksforgeeks.org/wp-content/uploads/rk.png");  */
+  background-size:cover ;
+  background-position: center; 
+  height: 100;
+  width:100%;
+  /* overflow-x: hidden; */
+  /* margin-top: 0; */
+  /* margin-bottom: 0; */
+   /* margin: 0;  */
+  font-size:15px;
+  background-repeat:no-repeat; 
+  display: block;
+  text-align: center;
+  text-decoration-color: aquamarine;
+  text-shadow: 2px;
+  font-style: italic;
+  font-stretch: ultra-condensed;
+  color:blue;
+ }
+
+ .Items {
+  
+  background-color: lightgrey;
+  width: 300px;
+  border: 5px solid green;
+  padding: 15px;
+  margin: auto;
+
+}
+ .Headingtwo{
+ color:brown
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+ .Buttonstyle{
+    background-color: bisque;
+ }
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.background-red {
+  background-color: red;
+}
+
+.background-blue {
+  background-color: blue;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+ .Formstyling{
+  border:10px coral solid;
+  padding: 5px;
+  margin:auto;
+  width:300px;
+  background-color: antiquewhite;
+
+}
+.bodystyle  {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Ffood.html&psig=AOvVaw3TFdu9m8Brgs2QwQh6z5JC&ust=1670650995821000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCX34nq6_sCFQAAAAAdAAAAABAE");
+  background-color: #cccccc;
+ }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
